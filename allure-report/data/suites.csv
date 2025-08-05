@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Substraction of 2 number is successful","4270","Substraction of two numbers","Calculator App Automation","Tue Aug 05 06:58:08 BDT 2025","passed","Tue Aug 05 06:58:12 BDT 2025","CalcTestRunner","Calculator Functions","CalcTestRunner","doSub"
+"Multiplication of 2 number is successful","4090","Multiplication of two numbers","Calculator App Automation","Tue Aug 05 06:58:14 BDT 2025","passed","Tue Aug 05 06:58:18 BDT 2025","CalcTestRunner","Calculator Functions","CalcTestRunner","doMultiply"
+"Division of 2 number is successful","4026","Division of two numbers","Calculator App Automation","Tue Aug 05 06:58:19 BDT 2025","passed","Tue Aug 05 06:58:23 BDT 2025","CalcTestRunner","Calculator Functions","CalcTestRunner","doDiv"
+"Summation of 2 number is successful","6365","Sum of two numbers","Calculator App Automation","Tue Aug 05 06:58:00 BDT 2025","passed","Tue Aug 05 06:58:06 BDT 2025","CalcTestRunner","Calculator Functions","CalcTestRunner","doSum"
